@@ -33,7 +33,7 @@
   name = "github"
   type = "social"
   weight = 1
-  url = "https://github.com/#"
+  url = "https://github.com/dzwriters"
 [[social]]
   name = "twitter"
   weight = 2
