@@ -1,22 +1,28 @@
-+++
-author = "DzWriters community"
-title = "Algerian tourism websites"
-date = "2022-06-17"
-description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
-featured = true
-tags = [
-    "algeria",
-    "tourism",
+---
+author:"DzWriters community"
+title:"مواقع المديريات السياحية ل58 ولاية الجزائرية"
+date:"2022-06-17"
+description:" المواقع الإلكترونية تبرز وتثمن المقومات السياحية والصناعة التقليدية وآليات الاستثمار حسب خصوصية كل ولاية، وكذا المساهمة في الترويج وترقية الوجهة المحلية من خلال توفير وتسهيل وصول المعلومة لصالح المواطنين والمتعاملين الاقتصاديين والمهنيين.
+"
+featured:true
+tags: [
+    "الجزائر",
+    "السياحة",
+    "الحوكمة الإلكترونية",
+    
 ]
-categories = [
-    "clubhouse",
+categories:[
+    "معلومات عامة",
 ]
-series = ["Clubhouse Rooms"]
-aliases = ["migrate-from-jekyl"]
-thumbnail = "images/building.png"
-+++
+series:["e-government"]
+aliases:["Le tourisme en Algérie – quels sont les meilleurs sites à visiter"]
+thumbnail:"images/building.png"
+---
+في إطار تنفيذ عملية رقمنة القطاع، في شقها المتعلق بالاتصال الإلكتروني لتوفير محتوى حول قطاع السياحة والصناعة التقليدية،  تم استكمال إطلاق 58 موقع إلكتروني باللغات الثلاث: العربية، الإنجليزية والفرنسية لفائدة مديريات السياحة والصناعة التقليدية لـ 58 ولاية.
 
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
+  ستمكن هذه المواقع الإلكترونية من إبراز وتثمين المقومات السياحية والصناعة التقليدية وآليات الاستثمار حسب خصوصية كل ولاية، وكذا المساهمة في الترويج وترقية الوجهة المحلية من خلال توفير وتسهيل وصول المعلومة لصالح المواطنين والمتعاملين الاقتصاديين والمهنيين.
+
+# قائمة المواقع 
 [Adrar](https://adrar.mta.gov.dz)
 [Chlef](https://chlef.mta.gov.dz)
 [Laghouat](https://laghouat.mta.gov.dz)
@@ -42,37 +48,36 @@ My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
 [annaba](https://annaba.mta.gov.dz)
 [guelma](https://guelma.mta.gov.dz)
 [constantine](https://constantine.mta.gov.dz)
-
-https://medea.mta.gov.dz
-https://mostaganem.mta.gov.dz
-https://msila.mta.gov.dz
-https://mascara.mta.gov.dz
-https://ouargla.mta.gov.dz
-https://oran.mta.gov.dz
-https://el-bayadh.mta.gov.dz
-https://illizi.mta.gov.dz
-https://bordj-bou-arreridj.mta.gov.dz/
-https://boumerdes.mta.gov.dz
-https://el-tarf.mta.gov.dz
-https://tindouf.mta.gov.dz
-https://tissemsilt.mta.gov.dz
-https://el-oued.mta.gov.dz
-https://khenchela.mta.gov.dz
-https://souk-ahras.mta.gov.dz
-https://tipaza.mta.gov.dz
-https://mila.mta.gov.dz
-https://ain-defla.mta.gov.dz
-https://naama.mta.gov.dz
-https://ain-temouchent.mta.gov.dz
-https://ghardaia.mta.gov.dz
-https://relizane.mta.gov.dz
-https://djanet.mta.gov.dz
-https://bordj-badji-mokhtar.mta.gov.dz
-https://in-salah.mta.gov.dz
-https://in-guezzam.mta.gov.dz
-https://mghair.mta.gov.dz
-https://touggourt.mta.gov.dz
-https://beni-abbes.mta.gov.dz
-https://timimoun.mta.gov.dz
-https://el-meniaa.mta.gov.dz
-https://ouled-djellal.mta.gov.dz
+[medea](https://medea.mta.gov.dz)
+[mostaganem](https://mostaganem.mta.gov.dz)
+[msila](https://msila.mta.gov.dz)
+[mascara](https://mascara.mta.gov.dz)
+[ouargla](https://ouargla.mta.gov.dz)
+[oran](https://oran.mta.gov.dz)
+[el-bayadh](https://el-bayadh.mta.gov.dz)
+[illizi](https://illizi.mta.gov.dz)
+[bordj-bou-arreridj](https://bordj-bou-arreridj.mta.gov.dz/)
+[boumerdes](https://boumerdes.mta.gov.dz)
+[el-tarf](https://el-tarf.mta.gov.dz)
+[tindouf](https://tindouf.mta.gov.dz)
+[tissemsilt](https://tissemsilt.mta.gov.dz)
+[el-oued](https://el-oued.mta.gov.dz)
+[khenchela](https://khenchela.mta.gov.dz)
+[souk-ahras](https://souk-ahras.mta.gov.dz)
+[tipaza](https://tipaza.mta.gov.dz)
+[mila](https://mila.mta.gov.dz)
+[ain-defla](https://ain-defla.mta.gov.dz)
+[naama](https://naama.mta.gov.dz)
+[ain-temouchent](https://ain-temouchent.mta.gov.dz)
+[ghardaia](https://ghardaia.mta.gov.dz)
+[relizane](https://relizane.mta.gov.dz)
+[djanet](https://djanet.mta.gov.dz)
+[bordj-badji-mokhtar](https://bordj-badji-mokhtar.mta.gov.dz)
+[in-salah](https://in-salah.mta.gov.dz)
+[in-guezzam](https://in-guezzam.mta.gov.dz)
+[mghair](https://mghair.mta.gov.dz)
+[touggourt](https://touggourt.mta.gov.dz)
+[beni-abbes](https://beni-abbes.mta.gov.dz)
+[timimoun](https://timimoun.mta.gov.dz)
+[el-meniaa](https://el-meniaa.mta.gov.dz)
+[ouled-djellal](https://ouled-djellal.mta.gov.dz)

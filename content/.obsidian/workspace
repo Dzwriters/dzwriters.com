@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "authors/NoureddineHaouari.md",
+            "file": "post/markdown-syntax.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "authors/NoureddineHaouari.md",
+                "file": "post/markdown-syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,10 +89,15 @@
   },
   "active": "ca36bd2c3e625c3f",
   "lastOpenFiles": [
-    "authors/NoureddineHaouari.md",
-    "authors/mohamedallam.md",
+    "post/markdown-syntax.md",
+    "post/algerianTourism.md",
+    "post/Radical-ventures.md",
+    "archives.md",
+    "search.md",
+    "_index.md",
+    "about.pt.md",
+    "about.md",
     "homepage/work.md",
-    "homepage/index.md",
-    "homepage/about.md"
+    "homepage/index.md"
   ]
 }
