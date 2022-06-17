@@ -1,10 +1,10 @@
 ---
-title = "Noureddine Haouari"
-slug = "noureddine-haouari"
-description = "A GPT 3 advocate"
-date = "2022-06-17"
-author = "Noureddine Haouari"
-tags = [
+title: "Noureddine Haouari"
+slug: "noureddine-haouari"
+description: "A GPT 3 advocate"
+date: "2022-06-17"
+author: "Noureddine Haouari"
+tags: [
     "business" , "motivation", "research", "algeria", "france", "notes", "obsidian", "notion", "javascript", "nodejs", "dev", "startup", "books", "writing", "reading", "founder" 
 ]
 ---
