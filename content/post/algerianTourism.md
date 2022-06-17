@@ -1,7 +1,10 @@
 ---
-author:"DzWriters community"
-title:"مواقع المديريات السياحية ل58 ولاية الجزائرية"
-date:"2022-06-17"
+author: "DzWriters community"
+title: "مواقع المديريات السياحية ل58 ولاية الجزائرية"
+date: "2022-06-17"
+description: " المواقع الإلكترونية تبرز وتثمن المقومات السياحية والصناعة التقليدية وآليات الاستثمار حسب خصوصية كل ولاية، وكذا المساهمة في الترويج وترقية الوجهة المحلية من خلال توفير وتسهيل وصول المعلومة لصالح المواطنين والمتعاملين الاقتصاديين والمهنيين.
+"
+
 featured: true
 tags: [
     "الجزائر",
@@ -9,12 +12,12 @@ tags: [
     "الحوكمة الإلكترونية",
     
 ]
-categories:[
+categories: [
     "معلومات عامة",
 ]
-series:["e-government"]
-aliases:["Le tourisme en Algérie – quels sont les meilleurs sites à visiter"]
-thumbnail:"images/building.png"
+series: ["e-government"]
+aliases: ["Le tourisme en Algérie – quels sont les meilleurs sites à visiter"]
+thumbnail: "images/building.png"
 ---
 في إطار تنفيذ عملية رقمنة القطاع، في شقها المتعلق بالاتصال الإلكتروني لتوفير محتوى حول قطاع السياحة والصناعة التقليدية،  تم استكمال إطلاق 58 موقع إلكتروني باللغات الثلاث: العربية، الإنجليزية والفرنسية لفائدة مديريات السياحة والصناعة التقليدية لـ 58 ولاية.
 
