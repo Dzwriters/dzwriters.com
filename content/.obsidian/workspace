@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "763b378d9c16eaa1",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca36bd2c3e625c3f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "authors/NoureddineHaouari.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6bd9b3fec40ea899",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c8e94ea4b0d44d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6131b6a1a07e4fc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ea1c88b63ceb8b76",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2db3daab7091f913",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed7240e4f47f9f15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5890f1877bdb71c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "authors/NoureddineHaouari.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ca36bd2c3e625c3f",
+  "lastOpenFiles": [
+    "authors/NoureddineHaouari.md",
+    "authors/mohamedallam.md",
+    "homepage/work.md",
+    "homepage/index.md",
+    "homepage/about.md"
+  ]
+}
