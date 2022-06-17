@@ -8,6 +8,11 @@
   url = "post/rich-content/"
   weight = -109
 
+  [[main]]
+  name = "Authors"
+  url = "/authors/"
+  weight = -108
+
 # Submenus are done this way: parent -> identifier
 [[main]]
   name = "Links"
