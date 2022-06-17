@@ -1,10 +1,14 @@
----
++++
 author: Noureddine Haouari
 slug: radical-ventures
 title: Radical ventures
 date: 2022-06-16
 description: Using Noureddine's note to show how this works
----
+tags = [
+    "markdown",
+    "text",
+]
++++
 Author: [[Noureddine Haouari]]
 up::[[Noureddine Haouari]]
 Radical Ventures is a venture capital firm based in Toronto. The firm invests in early stage companies in the technology sector.
