@@ -14,3 +14,14 @@ iframe {
     display: block;
     margin: 0 auto;
 }
+
+.ar > nav> .nav_body_left {
+    left: auto !important;
+    right: 0 !important;
+}
+
+
+.ar > nav> a > .nav_close {
+    right: auto !important;
+    left: -4rem !important;
+}
