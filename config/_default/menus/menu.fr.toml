@@ -19,12 +19,17 @@
   url = "/becomeAuthor/"
   weight = 4
 
+[[main]]
+  name = "Liste de diffusion"
+  url = "/newsletter/"
+  weight = 5
+
 
 # Submenus are done this way: parent -> identifier
 [[main]]
   name = "Suivez-nous"
   identifier = "Links"
-  weight = 5
+  weight = 6
 
 [[main]]
   parent = "Links"

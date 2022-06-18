@@ -4,6 +4,12 @@
   weight = 1
 
 [[main]]
+  name = "من نكون ؟"
+  url = "/about/"
+  weight = 2
+
+
+[[main]]
   name = "المساهمون"
   url = "/authors/"
   weight = 3
@@ -13,17 +19,17 @@
   url = "/becomeAuthor/"
   weight = 4
 
-
 [[main]]
-  name = "من نكون ؟"
-  url = "/about/"
-  weight = 2
+  name = "القائمة البريدية"
+  url = "/newsletter/"
+  weight = 5
+
 
 # Submenus are done this way: parent -> identifier
 [[main]]
   name = "تواصل معنا"
   identifier = "Links"
-  weight = 5
+  weight = 6
 
 [[main]]
   parent = "Links"

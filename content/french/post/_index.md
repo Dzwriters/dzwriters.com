@@ -1,6 +1,6 @@
 ---
 aliases : ["posts", "articles", "blog", "showcase", "docs"]
-title : "المقالات"
+title : "Articles"
 author : "Dz Writers"
 tags : ["index"]
 ---
