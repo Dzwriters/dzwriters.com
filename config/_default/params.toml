@@ -58,7 +58,7 @@ mobileNavigation = "left" # if you prefer right change to 'right'
 
 # please also not that mode toggle UI will remain in place. That way, if a user prefers darkmode, they can have their way.
 
-enforceLightMode = false
+enforceLightMode = true
 # enforceDarkMode = false
 
 # customize footer icon. see issue https://github.com/chipzoller/hugo-clarity/issues/77
@@ -104,11 +104,12 @@ iconsDir = "icons/" # without a leading forward slash
 # showRelatedInArticle = false
 # showRelatedInSidebar = false
 
+
 # website author
 [author]
-name = ["DzWriters"]
+name = "DzWriters"
 
-# photo = "images/jane-doe.png" #include this if you would like to show the author photo on the sideba
+#photo = "logos/logo.png" #include this if you would like to show the author photo on the sideba
 [plausible_analytics]
 enable = false # to enable plausible analytics set to true.
 websiteDomain = "dzwriters.com" # domain name of your website, most cases same as your base url
