@@ -1,5 +1,5 @@
-+++
-title = "Search"
-searchPage = true
-type = "search"
-+++
+---
+title: "البحث"
+searchPage: true
+type: "search"
+---
