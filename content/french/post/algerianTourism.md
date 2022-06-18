@@ -1,29 +1,32 @@
 ---
 author: "DzWriters community"
-title: "مواقع المديريات السياحية ل58 ولاية الجزائرية"
+title: "les sites web des directions du tourisme des 58 provinces algériennes"
 date: "2022-06-17"
-description: " المواقع الإلكترونية تبرز وتثمن المقومات السياحية والصناعة التقليدية وآليات الاستثمار حسب خصوصية كل ولاية، وكذا المساهمة في الترويج وترقية الوجهة المحلية من خلال توفير وتسهيل وصول المعلومة لصالح المواطنين والمتعاملين الاقتصاديين والمهنيين.
+description: "
+Dans le cadre de la mise en œuvre du processus de numérisation du secteur, dans sa partie liée à la communication électronique pour fournir des contenus sur le secteur du tourisme et de l'artisanat, le lancement de 58 sites Internet dans les trois langues : arabe, anglais et français a été achevé pour le au profit des directions du tourisme et de l'artisanat de 58 provinces.
 "
 
 featured: true
 tags: [
-    "الجزائر",
-    "السياحة",
-    "الحوكمة الإلكترونية",
+"Algérie",
+     "tourisme",
+     "e-gouvernance",
     
 ]
 categories: [
-    "معلومات عامة",
+    "Informations générales",
 ]
 series: ["e-government"]
 aliases: ["Le tourisme en Algérie – quels sont les meilleurs sites à visiter"]
 thumbnail: "images/algeria-tourism.jpg"
 ---
-في إطار تنفيذ عملية رقمنة القطاع، في شقها المتعلق بالاتصال الإلكتروني لتوفير محتوى حول قطاع السياحة والصناعة التقليدية،  تم استكمال إطلاق 58 موقع إلكتروني باللغات الثلاث: العربية، الإنجليزية والفرنسية لفائدة مديريات السياحة والصناعة التقليدية لـ 58 ولاية.
 
-  ستمكن هذه المواقع الإلكترونية من إبراز وتثمين المقومات السياحية والصناعة التقليدية وآليات الاستثمار حسب خصوصية كل ولاية، وكذا المساهمة في الترويج وترقية الوجهة المحلية من خلال توفير وتسهيل وصول المعلومة لصالح المواطنين والمتعاملين الاقتصاديين والمهنيين.
+Dans le cadre de la mise en œuvre du processus de numérisation du secteur, dans sa partie liée à la communication électronique pour fournir des contenus sur le secteur du tourisme et de l'artisanat, le lancement de 58 sites Internet dans les trois langues : arabe, anglais et français a été achevé pour le au profit des directions du tourisme et de l'artisanat de 58 provinces.
 
-# قائمة المواقع
+Ces sites leur permettront de mettre en valeur et de valoriser les potentiels touristiques, artisanaux et les mécanismes d'investissement selon la spécificité de chaque Etat, ainsi que de contribuer à la promotion et à la promotion de la destination locale en fournissant et en facilitant l'accès à l'information au profit des citoyens, commerçants économiques et professionnels.
+
+# Liste de sites Web
+
 - [Adrar](https://adrar.mta.gov.dz)
 
 - [Chlef](https://chlef.mta.gov.dz)

@@ -19,11 +19,11 @@ series: ["e-government"]
 aliases: ["Le tourisme en Algérie – quels sont les meilleurs sites à visiter"]
 thumbnail: "images/algeria-tourism.jpg"
 ---
-في إطار تنفيذ عملية رقمنة القطاع، في شقها المتعلق بالاتصال الإلكتروني لتوفير محتوى حول قطاع السياحة والصناعة التقليدية،  تم استكمال إطلاق 58 موقع إلكتروني باللغات الثلاث: العربية، الإنجليزية والفرنسية لفائدة مديريات السياحة والصناعة التقليدية لـ 58 ولاية.
+As part of the implementation of the digitization process of the sector, in its part related to electronic communication to provide content about the tourism and handicraft sector, the launch of 58 websites in the three languages: Arabic, English and French has been completed for the benefit of the tourism and handicraft directorates of 58 provinces.
 
-  ستمكن هذه المواقع الإلكترونية من إبراز وتثمين المقومات السياحية والصناعة التقليدية وآليات الاستثمار حسب خصوصية كل ولاية، وكذا المساهمة في الترويج وترقية الوجهة المحلية من خلال توفير وتسهيل وصول المعلومة لصالح المواطنين والمتعاملين الاقتصاديين والمهنيين.
+   These websites will enable them to highlight and value the tourism potentials, handicrafts and investment mechanisms according to the specificity of each state, as well as contribute to the promotion and promotion of the local destination by providing and facilitating the access of information for the benefit of citizens, economic dealers and professionals.
 
-# قائمة المواقع
+# Websites List
 - [Adrar](https://adrar.mta.gov.dz)
 
 - [Chlef](https://chlef.mta.gov.dz)
