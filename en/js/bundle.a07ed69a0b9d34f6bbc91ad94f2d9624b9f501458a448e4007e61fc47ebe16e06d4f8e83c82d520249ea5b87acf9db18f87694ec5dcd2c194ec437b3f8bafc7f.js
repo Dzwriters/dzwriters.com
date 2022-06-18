@@ -15,11 +15,11 @@ const goBackClass = 'button_back';
 const lineClass = '.line';
 
 // defined in i18n / translation files
-const quickLinks = 'Résultats';
-const searchResultsLabel = 'Résultats de la recherche';
-const shortSearchQuery = 'La requête est trop courte'
-const typeToSearch = 'Tapez pour rechercher';
-const noMatchesFound = 'Aucun résultat trouvé';
+const quickLinks = 'Results';
+const searchResultsLabel = 'Search Results';
+const shortSearchQuery = 'Query is too short'
+const typeToSearch = 'Type to search';
+const noMatchesFound = 'No results found';
 
 ;
 // global variables
@@ -156,7 +156,7 @@ function copyToClipboard(str) {
   }
 }
 
-const iconsPath = 'icons/';
+const iconsPath = '/icons/';
 
 function getMobileOperatingSystem() {
   let userAgent = navigator.userAgent || navigator.vendor || window.opera;
