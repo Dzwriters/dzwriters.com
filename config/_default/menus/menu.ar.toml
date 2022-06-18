@@ -1,6 +1,6 @@
 [[main]]
   name = "الصفحة الرئيسية"
-  url = ""
+  url = "/"
   weight = 1
 
 [[main]]
@@ -10,13 +10,13 @@
 
 [[main]]
   name = "ساهم معنا"
-  url = "/becomeAuthor"
+  url = "/becomeAuthor/"
   weight = 4
 
 
 [[main]]
   name = "من نكون ؟"
-  url = "about/"
+  url = "/about/"
   weight = 2
 
 # Submenus are done this way: parent -> identifier
@@ -28,7 +28,7 @@
 [[main]]
   parent = "Links"
   name = "اتصل بنا"
-  url = "contactus/"
+  url = "/contactus/"
   weight = -107
 
 [[main]]
