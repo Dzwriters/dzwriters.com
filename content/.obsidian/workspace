@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "arabic/newsletter.md",
+            "file": "french/newsletter.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "arabic/newsletter.md",
+                "file": "french/newsletter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "91d2afbeeb46d911",
   "lastOpenFiles": [
-    "arabic/search.md",
-    "arabic/archives.md",
+    "english/newsletter.md",
+    "french/newsletter.md",
+    "english/search.md",
+    "arabic/newsletter.md",
+    "arabic/contactus.md",
+    "french/about.md",
+    "english/about.md",
     "arabic/about.md",
-    "homepage/about.md",
-    "homepage/index.md",
-    "post/algerianTourism.md",
-    "authors/NoureddineHaouari.md",
-    "post/markdown-syntax.md",
-    "post/Radical-ventures.md",
-    "archives.md"
+    "arabic/about 1.md",
+    "arabic/becomeAuthor.md"
   ]
 }

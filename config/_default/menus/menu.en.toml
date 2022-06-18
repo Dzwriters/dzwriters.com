@@ -1,36 +1,59 @@
 [[main]]
   name = "Home"
-  url = ""
-  weight = -110
-
-[[main]]
-  name = "Archives"
-  url = "post/rich-content/"
-  weight = -109
-
-  [[main]]
-  name = "Authors"
-  url = "/authors/"
-  weight = -108
-
-# Submenus are done this way: parent -> identifier
-[[main]]
-  name = "Links"
-  identifier = "Links"
-  weight = -108
-[[main]]
-  parent = "Links"
-  name = "LinkedIn"
-  url = "https://www.linkedin.com/"
-[[main]]
-  parent = "Links"
-  name = "Twitter"
-  url = "https://twitter.com/"
+  url = "/"
+  weight = 1
 
 [[main]]
   name = "About"
-  url = "about/"
+  url = "/about/"
+  weight = 2
+
+
+[[main]]
+  name = "Authors"
+  url = "/authors/"
+  weight = 3
+
+[[main]]
+  name = "Particpate"
+  url = "/becomeAuthor/"
+  weight = 4
+
+
+# Submenus are done this way: parent -> identifier
+[[main]]
+  name = "Follow us"
+  identifier = "Links"
+  weight = 5
+
+[[main]]
+  parent = "Links"
+  name = "Contact us"
+  url = "/contactus/"
   weight = -107
+
+[[main]]
+  parent = "Links"
+  name = "Telegram Group"
+  url = "https://t.me/+x5A1DkIn-60wNzE8"
+  weight = -106
+[[main]]
+  parent = "Links"
+  name = "Telegram Channel"
+  url = "https://t.me/+C-dXz4n-_S0zM2M8"
+  weight = -105
+  
+[[main]]
+  parent = "Links"
+  name = "Clubhouse"
+  url = "https://www.clubhouse.com/club/dz-writers?utm_medium=ch_club&utm_campaign=MgXI5N0UXD06HeczjptNpw-242175"
+  weight = -104
+[[main]]
+  parent = "Links"
+  name = "Twitter Community"
+  url = "https://twitter.com/i/communities/1532903293139156993"
+  weight = -103
+
 
 # social menu links
 
@@ -42,7 +65,7 @@
 [[social]]
   name = "twitter"
   weight = 2
-  url = "https://twitter.com/#"
+  url = "https://twitter.com/i/communities/1532903293139156993"
 [[social]]
   name = "facebook"
   weight = 3

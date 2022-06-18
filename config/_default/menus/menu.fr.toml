@@ -1,28 +1,88 @@
 [[main]]
-  name = "Home"
-  url = ""
-  weight = -110
+  name = "Accueil"
+  url = "/"
+  weight = 1
 
-# [[main]]
-#   name = "Archives"
-#   url = "post/rich-content/"
-#   weight = -109
+[[main]]
+  name = "À propos"
+  url = "/about/"
+  weight = 2
+
+
+[[main]]
+  name = "Auteurs"
+  url = "/authors/"
+  weight = 3
+
+[[main]]
+  name = "Participer"
+  url = "/becomeAuthor/"
+  weight = 4
+
 
 # Submenus are done this way: parent -> identifier
 [[main]]
-  name = "Links"
+  name = "Suivez-nous"
   identifier = "Links"
-  weight = -108
-[[main]]
-  parent = "Links"
-  name = "LinkedIn"
-  url = "https://www.linkedin.com/"
-[[main]]
-  parent = "Links"
-  name = "Twitter"
-  url = "https://twitter.com/"
+  weight = 5
 
 [[main]]
-  name = "Sobre"
-  url = "about/"
+  parent = "Links"
+  name = "Contactez-nous"
+  url = "/contactus/"
   weight = -107
+
+[[main]]
+  parent = "Links"
+  name = "Groupe de Telegram"
+  url = "https://t.me/+x5A1DkIn-60wNzE8"
+  weight = -106
+[[main]]
+  parent = "Links"
+  name = "Chaîne de Telegram"
+  url = "https://t.me/+C-dXz4n-_S0zM2M8"
+  weight = -105
+  
+[[main]]
+  parent = "Links"
+  name = "Clubhouse"
+  url = "https://www.clubhouse.com/club/dz-writers?utm_medium=ch_club&utm_campaign=MgXI5N0UXD06HeczjptNpw-242175"
+  weight = -104
+[[main]]
+  parent = "Links"
+  name = "Twitter Community"
+  url = "https://twitter.com/i/communities/1532903293139156993"
+  weight = -103
+
+
+# social menu links
+
+[[social]]
+  name = "github"
+  type = "social"
+  weight = 1
+  url = "https://github.com/dzwriters"
+[[social]]
+  name = "twitter"
+  weight = 2
+  url = "https://twitter.com/i/communities/1532903293139156993"
+[[social]]
+  name = "facebook"
+  weight = 3
+  url = "https://www.facebook.com/dzwriters2022/"
+[[social]]
+  name = "rss"
+  weight = 4
+  url = "index.xml"
+
+# other supported social links
+# name = "youtube"
+# url = "https://www.youtube.com/#"
+# name = "facebook"
+# url = "https://facebook.com/#"
+# name = "instagram"
+# url = "https://instagram.com/#"
+# name = "stackoverflow"
+# url = "https://stackoverflow.com/#"
+# name = "gitlab"
+# url = "https://gitlab.com/#"
