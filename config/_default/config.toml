@@ -16,17 +16,24 @@ DefaultContentLanguage = "ar"
   LanguageName = "العربية"
   title = 'DzWriters - الكتاب الجزائريون'
   weight = 1
+  description = ""
+  introDescription = " **مجتمع DzWriters**  عبر مختلف المنصات طريقة  تشاركية للجزائريين لمشاركة معارفهم وخبراتهم مع الآخرين.  يمكننا  **مجتمع DzWriters** باتاحة التواصل بيننا و التعلم من بعضنا البعض والوصول لبناء مشاريع ذات فائدة مشتركة."
+
 [languages.en]
   contentDir = 'content/english'
   title = "DzWriters - Algerian writers"
   LanguageName = "English"
   weight = 2
-
+  description = ""
+  introDescription = " **The DzWriters Community** Across various platforms is a participatory way for Algerians to share their knowledge and experience with others. **The DzWriters Community** allow us to connect, learn from each other, and build projects of mutual benefit."
 [languages.fr]
   contentDir = 'content/french'
   title = "DzWriters - Écrivains algériens"
   LanguageName = "Français"
   weight = 3
+  description = ""
+  introDescription = " **La communauté DzWriters** sur diverses plateformes est un moyen participatif pour les Algériens de partager leurs connaissances et leur expérience avec les autres. **La communauté DzWriters** nous permet de nous connecter, d'apprendre les uns des autres et de construire des projets d'intérêt mutuel."
+
 
 
 #[menus]

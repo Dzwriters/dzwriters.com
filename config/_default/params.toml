@@ -2,11 +2,9 @@
 enableSearch = true
 
 # socials
-twitter = "@johndoe"
+#twitter = "@johndoe"
 largeTwitterCard = false # set to true if you want to show a large twitter card image. The default is a small twitter card image
-introDescription = "Technologist, perpetual student, teacher, continual incremental improvement."
-# introURL = "about/" # set the url for the 'read more' button below the introDescription, or set to false to not show the button
-description = "DzWriters community, we are note takers, and we love sharing them publicly, Feel free to PR yours, so we share them in a fashioned way." # Set your site's meta tag (SEO) description here. Alternatively set this description in your home page content file e.g. content/_index.md. Whatever is set in the latter will take precedence.
+introURL = "about/" # set the url for the 'read more' button below the introDescription, or set to false to not show the button
 # keywords = ["design", "clarity", "hugo theme"] # Set your site's meta tag (SEO) keywords here. Alternatively set these in your home page content file e.g. content/_index.md. Whatever is set in the latter will take precedence.
 
 # showShare = false # Uncomment to not show share buttons on each post. Also available in each post's front matter.
@@ -44,7 +42,7 @@ mainSections = ["post"] # see config details here https://gohugo.io/functions/wh
 # center logo on navbar
 centerLogo = false # Set to "true" for centering or "false" for left aligned.
 
-logo = "logos/logo.png"
+logo = "/logos/logo.png"
 
 # Label Non inline images on an article body
 figurePositionShow = false # toggle on or off globally
@@ -108,9 +106,9 @@ iconsDir = "icons/" # without a leading forward slash
 
 # website author
 [author]
-name = ["DzWriters Community"]
-# photo = "images/jane-doe.png" #include this if you would like to show the author photo on the sidebar
+name = ["DzWriters"]
 
+# photo = "images/jane-doe.png" #include this if you would like to show the author photo on the sideba
 [plausible_analytics]
 enable = false # to enable plausible analytics set to true.
 websiteDomain = "dzwriters.com" # domain name of your website, most cases same as your base url
