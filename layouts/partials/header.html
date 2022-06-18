@@ -1,14 +1,14 @@
 {{- $params := .Site.Params }}
 {{- $centerLogo := $params.centerLogo }}
 {{ $logo := $params.logo }}
-<header class="nav_header, {{.Lang }}">
+<header class="nav_header {{.Lang }}">
   <nav class="nav">
     {{- if $centerLogo }}
       {{- partialCached "logo" (dict "logo" $logo "class" "nav_hide") }}
     {{- else }}
       {{- partialCached "logo" (dict "logo" $logo) }}
     {{- end }}
-    <div class='nav_body nav_body_{{ default "left" $params.mobileNavigation }}'>
+    <div class='nav_body nav_body_{{ default "left" $params.mobileNavigation }} {{.Lang }}'>
       {{ $context := . }}
       {{ $menuData := .Site.Data.menu }}
       {{ with $menuData }}

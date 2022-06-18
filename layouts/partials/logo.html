@@ -6,7 +6,7 @@
     {{- $t -}}
   {{- end }}
   {{- if ne (strings.HasSuffix .class "center") true }}
-  <div class="nav_close">
+  <div class="nav_close {{.Lang }}">
     <div>
       {{- partialCached "sprite" (dict "icon" "open-menu") -}}
       {{- partial "sprite" (dict "icon" "closeme") -}}
