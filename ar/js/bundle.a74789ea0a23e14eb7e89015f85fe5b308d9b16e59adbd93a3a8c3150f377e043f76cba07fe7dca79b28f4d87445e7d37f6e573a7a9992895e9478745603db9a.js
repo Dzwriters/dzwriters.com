@@ -15,11 +15,11 @@ const goBackClass = 'button_back';
 const lineClass = '.line';
 
 // defined in i18n / translation files
-const quickLinks = 'Résultats';
-const searchResultsLabel = 'Résultats de la recherche';
-const shortSearchQuery = 'La requête est trop courte'
-const typeToSearch = 'Tapez pour rechercher';
-const noMatchesFound = 'Aucun résultat trouvé';
+const quickLinks = 'النتائج';
+const searchResultsLabel = 'نتائج البحث';
+const shortSearchQuery = 'جملة البحث جد صغيرة'
+const typeToSearch = 'اكتب للبحث';
+const noMatchesFound = 'لا يوجد أي نتائج';
 
 ;
 // global variables
@@ -156,7 +156,7 @@ function copyToClipboard(str) {
   }
 }
 
-const iconsPath = '/icons/';
+const iconsPath = 'icons/';
 
 function getMobileOperatingSystem() {
   let userAgent = navigator.userAgent || navigator.vendor || window.opera;
