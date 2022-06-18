@@ -1,10 +1,17 @@
 
-[en]
-  title = "DzWriters"
-  LanguageName = "English"
+[ar]
+  contentDir = 'content/arabic'
+  languagedirection = 'rtl'
+  title = 'DzWriters - الكتاب الجزائريون'
   weight = 1
+[en]
+  contentDir = 'content/english'
+  title = "DzWriters - Algerian writers"
+  LanguageName = "English"
+  weight = 2
 
 [fr]
-  title = "DzWriters" # just for the sake of showing this is possible
-  LanguageName = "Francais"
-  weight = 2
+  contentDir = 'content/french'
+  title = "DzWriters - Écrivains algériens"
+  LanguageName = "Français"
+  weight = 3

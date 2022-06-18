@@ -1,0 +1,87 @@
+[[main]]
+  name = "الصفحة الرئيسية"
+  url = ""
+  weight = 1
+
+[[main]]
+  name = "المساهمون"
+  url = "/authors/"
+  weight = 3
+
+[[main]]
+  name = "ساهم معنا"
+  url = "/becomeAuthor"
+  weight = 4
+
+
+[[main]]
+  name = "من نكون ؟"
+  url = "about/"
+  weight = 2
+
+# Submenus are done this way: parent -> identifier
+[[main]]
+  name = "تواصل معنا"
+  identifier = "Links"
+  weight = 5
+
+[[main]]
+  parent = "Links"
+  name = "اتصل بنا"
+  url = "contactus/"
+  weight = -107
+
+[[main]]
+  parent = "Links"
+  name = "مجموعة تيليجرام"
+  url = "https://t.me/+x5A1DkIn-60wNzE8"
+  weight = -106
+[[main]]
+  parent = "Links"
+  name = "قناة تيليجرام"
+  url = "https://t.me/+C-dXz4n-_S0zM2M8"
+  weight = -105
+  
+[[main]]
+  parent = "Links"
+  name = "clubhouse"
+  url = "https://www.clubhouse.com/club/dz-writers?utm_medium=ch_club&utm_campaign=MgXI5N0UXD06HeczjptNpw-242175"
+  weight = -104
+[[main]]
+  parent = "Links"
+  name = "Twitter Community"
+  url = "https://twitter.com/i/communities/1532903293139156993"
+  weight = -103
+
+
+# social menu links
+
+[[social]]
+  name = "github"
+  type = "social"
+  weight = 1
+  url = "https://github.com/dzwriters"
+[[social]]
+  name = "twitter"
+  weight = 2
+  url = "https://twitter.com/i/communities/1532903293139156993"
+[[social]]
+  name = "facebook"
+  weight = 3
+  url = "https://www.facebook.com/dzwriters2022/"
+[[social]]
+  name = "rss"
+  weight = 4
+  url = "index.xml"
+
+# other supported social links
+# name = "youtube"
+# url = "https://www.youtube.com/#"
+# name = "facebook"
+# url = "https://facebook.com/#"
+# name = "instagram"
+# url = "https://instagram.com/#"
+# name = "stackoverflow"
+# url = "https://stackoverflow.com/#"
+# name = "gitlab"
+# url = "https://gitlab.com/#"

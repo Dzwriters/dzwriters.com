@@ -1,19 +1,37 @@
 # set `baseurl` to your root domain
 # if you set it to "/" share icons won't work properly on production
-baseurl = "https://dzwriters.com/"  # Include trailing slash
-title = "DzWriters"  # Edit directly from config/_default/languages.toml # alternatively, uncomment this and remove `title` entry from the aforemention file.
+# baseurl = "https://dzwriters.com/"  # Include trailing slash
+
 copyright = "Copyright © 2022–2022, DzWriters community all rights reserved."
 # canonifyurls = true
 paginate = 10
 theme = "hugo-clarity"
 disqusShortname = ""
+DefaultContentLanguage = "ar"
 
-DefaultContentLanguage = "en"
-# [languages]
-# config/_default/languages.toml
+[languages]
+[languages.ar]
+  contentDir = 'content/arabic'
+  languagedirection = 'rtl'
+  LanguageName = "العربية"
+  title = 'DzWriters - الكتاب الجزائريون'
+  weight = 1
+[languages.en]
+  contentDir = 'content/english'
+  title = "DzWriters - Algerian writers"
+  LanguageName = "English"
+  weight = 2
 
-# [menus]
-# config/_default/menus/menu.xx.toml
+[languages.fr]
+  contentDir = 'content/french'
+  title = "DzWriters - Écrivains algériens"
+  LanguageName = "Français"
+  weight = 3
+
+
+#[menus]
+#config/_default/menus/menu.ar.toml
+
 
 [taxonomies]
 category = "categories"
@@ -22,3 +40,7 @@ series = "series"
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
+
+[params]
+customCSS = ["css/custom.css"] # Include custom CSS files
+customJS = ["js/custom.js"] # Include custom JS files

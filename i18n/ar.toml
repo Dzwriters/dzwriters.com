@@ -1,0 +1,72 @@
+[read_more]
+other = "اقرأ المزيد"
+
+[copyright]
+other = "حقوق الملكية"
+
+[all_rights]
+other = "جميع الحقوق محفوظة"
+
+[share_on]
+other = "شارك"
+
+[featured_posts]
+other = "مشاركات مختارة"
+
+[recent_posts]
+other = "مشاركات حديثة"
+
+[404_title]
+other = "صفحة غير موجودة"
+
+[could_not_find]
+other = "لا نستطيع ايجاد الصفحة التي تبحث عليها"
+
+[go_back]
+other = "الخلف"
+
+[translations]
+other = "الترجمات"
+
+[categories]
+other = "الأصناف"
+
+[tags]
+other = "الوسوم"
+
+[series]
+other = "السلاسل"
+
+[all_categories]
+other = "جميع الأصناف"
+
+[all_tags]
+other = "جميع الوسوم"
+
+[all_series]
+other = "جميع السلاسل"
+
+[overview]
+other = "Overview"
+
+[reading_time]
+other = "{{ .ReadingTime }} دقيقة لقرائته"
+
+[series_posts]
+other = "المشاركات في هذه السلسلة"
+
+# search
+[quick_links]
+  other = "النتائج"
+[no_matches]
+  other = "لا يوجد أي نتائج"
+[search_field_placeholder]
+  other = "ابحث في قاعدة المعلومات"
+[blog_search_field_placeholder]
+  other = "بحث..."
+[search_results_label]
+  other = "نتائج البحث"
+[short_search_query]
+  other = "جملة البحث جد صغيرة"
+[type_to_search]
+  other = "اكتب للبحث"
