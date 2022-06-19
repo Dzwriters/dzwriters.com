@@ -9,7 +9,7 @@
   {{- if eq $menu $menuData }}
     {{- $children = .submenu }}
     {{- $name = .name }}
-    {{- $url = absLangURL .link }}
+    {{- $url = absURL .link }}
   {{- else }}
     {{- $children = .Children }}
     {{- $name = .Name }}
@@ -23,7 +23,7 @@
       {{- range . }}
         {{- if eq $menu $menuData }}
           {{- $name = .name }}
-          {{- $url = absLangURL .link }}
+          {{- $url = absURL .link }}
         {{- else }}
           {{- $name = .Name }}
           {{- $url = absLangURL .URL }}
