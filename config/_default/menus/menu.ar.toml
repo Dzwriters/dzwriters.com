@@ -76,8 +76,12 @@
   weight = 3
   url = "https://www.facebook.com/dzwriters2022/"
 [[social]]
-  name = "rss"
+  name = "youtube"
   weight = 4
+  url = "https://www.youtube.com/channel/UCCl6dQTGSw970v_EgQ-8N0g?sub_confirmation=1"
+[[social]]
+  name = "rss"
+  weight = 5
   url = "index.xml"
 
 # other supported social links
