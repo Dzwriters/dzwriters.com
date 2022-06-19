@@ -57,7 +57,7 @@
         src="{{ .RelPermalink }}"
       {{ else }}
         class="{{ $classes }} image_unprocessed"
-        src="{{ $fileWeb }}"
+        src="/{{ $fileWeb }}"
       {{ end }}
       {{ with $cap }}
         title="{{ htmlEscape $cap }}"
