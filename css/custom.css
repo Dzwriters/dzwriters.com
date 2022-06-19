@@ -1,9 +1,10 @@
- .logo {
+.logo {
     height: 75px
 }
 
 .ar {
  direction: rtl;
+ font-family: "Dubai";
 }
 
 header {
@@ -25,3 +26,27 @@ iframe {
     right: auto !important;
     left: -4rem !important;
 }
+
+.ar a {
+    font-family: 'Metropolis'
+}
+
+.ar h1,h2,h3,h4,h5,h6 {
+    font-family: 'Kufi' !important;
+}
+
+
+.ar .post_link > a {
+    font-family: 'Kufi' !important;
+}
+
+.ar .nav_parent > a {
+    font-family: 'Kufi' !important;
+}
+
+.ar > p {
+    font-family: 'Dubai' !important;
+}
+
+
+
