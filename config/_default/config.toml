@@ -2,7 +2,7 @@
 # if you set it to "/" share icons won't work properly on production
 # baseurl = "https://dzwriters.com/"  # Include trailing slash
 
-copyright = "Copyright © 2022–2022, DzWriters community all rights reserved."
+copyright = "Copyright © 2022, DzWriters community all rights reserved."
 # canonifyurls = true
 paginate = 10
 theme = "hugo-clarity"
@@ -14,25 +14,24 @@ DefaultContentLanguage = "ar"
   contentDir = 'content/arabic'
   languagedirection = 'rtl'
   LanguageName = "العربية"
-  title = 'DzWriters - الكتاب الجزائريون'
+  title = 'DzWriters'
   weight = 1
   description = ""
-  introDescription = " **مجتمع DzWriters**  عبر مختلف المنصات طريقة  تشاركية للجزائريين لمشاركة معارفهم وخبراتهم مع الآخرين.  يمكننا  **مجتمع DzWriters** باتاحة التواصل بيننا و التعلم من بعضنا البعض والوصول لبناء مشاريع ذات فائدة مشتركة."
-
+  introDescription = "**مجتمع DzWriters** هو المكان المثالي للجزائريين لمشاركة معارفهم وخبراتهم مع الآخرين. من خلال نهج تشاركي ، يمكن للجميع الاستفادة من ثروة المعلومات والخبرات المتاحة داخل المجتمع."
 [languages.en]
   contentDir = 'content/english'
-  title = "DzWriters - Algerian writers"
+  title = "DzWriters"
   LanguageName = "English"
   weight = 2
   description = ""
-  introDescription = " **The DzWriters Community** Across various platforms is a participatory way for Algerians to share their knowledge and experience with others. **The DzWriters Community** allow us to connect, learn from each other, and build projects of mutual benefit."
+  introDescription = "The **DzWriters community** is the perfect place for Algerians to share their knowledge and experience with others. With a participatory approach, everyone can benefit from the wealth of information and expertise available within the community."
 [languages.fr]
   contentDir = 'content/french'
-  title = "DzWriters - Écrivains algériens"
+  title = "DzWriters"
   LanguageName = "Français"
   weight = 3
   description = ""
-  introDescription = " **La communauté DzWriters** sur diverses plateformes est un moyen participatif pour les Algériens de partager leurs connaissances et leur expérience avec les autres. **La communauté DzWriters** nous permet de nous connecter, d'apprendre les uns des autres et de construire des projets d'intérêt mutuel."
+  introDescription = "La **communauté DzWriters** est l'endroit idéal pour que les Algériens partagent leurs connaissances et leur expérience avec les autres. Grâce à une approche participative, chacun peut bénéficier de la richesse des informations et des expériences disponibles au sein de la communauté."
 
 
 

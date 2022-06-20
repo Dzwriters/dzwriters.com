@@ -3,13 +3,14 @@ title: 'Dz Writers'
 button: 'About us'
 weight: 2
 ---
-**Communauté DzWriters** À travers diverses plateformes, c'est un moyen participatif pour les Algériens de partager leurs connaissances et leur expérience avec les autres. **La communauté DzWriters** nous permet de nous connecter les uns aux autres, d'apprendre les uns des autres et de construire des projets d'intérêt mutuel.
+La **communauté DzWriters** est l'endroit idéal pour que les Algériens partagent leurs connaissances et leur expérience avec les autres. Grâce à une approche participative, chacun peut bénéficier de la richesse des informations et des expériences disponibles au sein de la communauté.
 
-Pour rester informé de nos travaux, nous vous recommandons de vous inscrire à notre liste de diffusion et de nous suivre sur les différents réseaux sociaux. Grâce à cela, nous essayons de noter les informations dont nous discutons sur différentes plateformes pour les rendre accessibles à davantage de personnes.
+Avez-vous une passion pour l'écriture? Voulez-vous faire partie d'une communauté d'individus partageant les mêmes idées et engagés à se soutenir et à célébrer le travail de chacun ? Si oui, alors la communauté DzWriters est faite pour vous !
 
-Le site communautaire DzWriters est hébergé sur github, ce qui permet à chacun de contribuer à son contenu et de l'enrichir davantage.
- 
-L'idée de **DzWriters** a commencé sur la plateforme du clubhouse et se développe de jour en jour pour inclure le reste des plateformes. Si vous souhaitez faire partie de cette communauté, et ce dans un esprit de participation, nous vous invitons à rejoindre la **communauté DzWriters** où vous trouverez tout le soutien à travers le formulaire suivant :
+**DzWriters** est un groupe d'Algériens du monde entier qui se consacrent au soutien et à la promotion du travail de chacun. Nous offrons une variété de ressources et d'opportunités à nos membres pour se connecter les uns avec les autres, y compris [clubhouse club] (https://www.clubhouse.com/club/dz-writers?utm_medium=ch_club&utm_campaign=MgXI5N0UXD06HeczjptNpw-242175), [newsletter ] (https://dzwriters.com/newsletter/) et [groupe de télégrammes] (https://t.me/+x5A1DkIn-60wNzE8). Nous offrons également une variété de façons pour nos membres de s'impliquer dans la communauté, y compris des opportunités de bénévolat et des événements spéciaux.
+
+Si vous souhaitez rejoindre **la communauté DzWriters**, veuillez remplir le formulaire ci-dessous. *Nous avons hâte d'avoir de tes nouvelles!*
+
 <iframe
   src="https://tally.so/embed/m6876P?alignLeft=1&hideTitle=1&transparentBackground=1"
   width="100%"

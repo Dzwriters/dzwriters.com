@@ -3,14 +3,13 @@ title: 'Dz Writers'
 button: 'About us'
 weight: 2
 ---
+The **DzWriters community** is the perfect place for Algerians to share their knowledge and experience with others. With a participatory approach, everyone can benefit from the wealth of information and expertise available within the community.
 
-**DzWriters Community** Across various platforms is a participatory way for Algerians to share their knowledge and experience with others. **The DzWriters Community** allows us to connect with each other, learn from each other, and build projects of mutual benefit.
+Do you have a passion for writing? Do you want to be part of a community of like-minded individuals who are committed to supporting and celebrating each other's work? If so, then the DzWriters community is for you!
 
-To stay informed of our work, we recommend that you subscribe to our mailing list and follow us on various social networks. Through this we try to jot down the information that we are discussing on different platforms to make it available to more people.
+**DzWriters** is a group of Algerians from all over the world who are dedicated to supporting and promoting each other's work. We offer a variety of resources and opportunities for our members to connect with each other, including an [clubhouse club](https://www.clubhouse.com/club/dz-writers?utm_medium=ch_club&utm_campaign=MgXI5N0UXD06HeczjptNpw-242175), [newsletter](https://dzwriters.com/newsletter/), and [telegram group](https://t.me/+x5A1DkIn-60wNzE8). We also offer a variety of ways for our members to get involved in the community, including volunteer opportunities and special events.
 
- The DzWriters community site is hosted on github, which enables anyone to contribute to its content and enrich it further.
- 
-The idea of **DzWriters** started on the clubhouse platform and is developing day by day to include the rest of the platforms. If you want to be part of this community, and done in the spirit of participation, we invite you to join the **DzWriters community** where you will find all the support through the following form:
+If you're interested in joining the **DzWriters community**, please fill out the form below. *We look forward to hearing from you!*
 
 
 <iframe

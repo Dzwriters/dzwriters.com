@@ -4,7 +4,7 @@ button: 'How do you contribute with us!'
 weight: 3
 ---
 
-The idea of **DzWriters** started on the clubhouse platform and is developing day by day to include the rest of the platforms. If you want to be part of this community, and done in the spirit of participation, we invite you to join the **DzWriters community** where you will find all the support through the following form:
+If you're interested in joining the **DzWriters community**, please fill out the form below. *We look forward to hearing from you!*
 
 
 <iframe

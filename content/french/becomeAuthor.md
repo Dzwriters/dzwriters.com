@@ -4,7 +4,7 @@ button: 'Comment contribuez-vous avec nous !'
 weight: 3
 ---
 
-L'idée de **DzWriters** a commencé sur la plateforme du clubhouse et se développe de jour en jour pour inclure le reste des plateformes. Si vous souhaitez faire partie de cette communauté, et ce dans un esprit de participation, nous vous invitons à rejoindre la **communauté DzWriters** où vous trouverez tout le soutien à travers le formulaire suivant :
+Si vous souhaitez rejoindre **la communauté DzWriters**, veuillez remplir le formulaire ci-dessous. *Nous avons hâte d'avoir de tes nouvelles!*
 
 # استمارة التسجيل
 
