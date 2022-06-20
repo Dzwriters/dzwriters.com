@@ -14,6 +14,9 @@
     {{- $children = .Children }}
     {{- $name = .Name }}
     {{- $url = relLangURL  .URL }}
+    {{- if in .URL "http://" }}
+      {{- $url = absLangURL .URL }}
+    {{- end }} 
   {{- end }}
   <div class="nav_parent{{ if (and (not .Children) (eq (trim $url $forwardSlash) (trim $link $forwardSlash))) }} nav_active{{ end}}">
     <a href="{{ $url }}" class="nav_item" title="{{ $name }}" menu="{{ $menu }}" menuData="{{ $menuData }}" absLangURL="{{absLangURL .URL}}" absURL="{{absURL $link}}" link ="{{$link}}" >{{ $name }} {{ with $children }}<img src='{{ absURL "/icons/caret-icon.svg" }}' alt="icon" class="nav_icon">{{ end }}</a>
@@ -26,7 +29,10 @@
           {{- $url = absURL .link }}
         {{- else }}
           {{- $name = .Name }}
-          {{- $url = absLangURL .URL }}
+          {{- $url = relLangURL .URL }}
+          {{- if in .URL "http://" }}
+            {{- $url = absLangURL .URL }}
+          {{- end }} 
         {{- end }}
         <a href="{{ $url }}" class="nav_child nav_item" title="{{ $name }}">{{ $name }}</a>
       {{- end }}
