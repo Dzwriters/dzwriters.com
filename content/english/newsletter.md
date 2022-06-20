@@ -8,4 +8,4 @@ weight: 4
 By subscribing to the news letter, you will receive an email summarizing the most important topics discussed, projects, events on a weekly or bi-monthly basis.
 
 
-<iframe src="https://dzwriters.substack.com/embed" width="480" height="320" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://dzwriters.substack.com/embed" frameborder="0" scrolling="no"></iframe>
