@@ -28,7 +28,8 @@
     <div class="post_body">
       {{- .Content }}
     </div>
-
+    {{- partial "i18nlist" . }}
+    
     {{- $showRelatedInArticle := true }}
     {{- if eq $s.showRelatedInArticle false }}
       {{- $showRelatedInArticle = false }}
@@ -48,8 +49,6 @@
     {{- if ne $showComments false }}
       {{- partial "comments" . }}
     {{- end }}
-    {{- partial "i18nlist" . }}
-
   </article>
   {{- if ( ne $p.sidebar false ) }}
     {{- partial "sidebar" . }}
