@@ -3,6 +3,7 @@
 {{- $link := .context.Permalink }}
 {{- $url := "" }}
 {{- $name := "" }}
+{{- $counthttp := "" }}
 {{- $forwardSlash := "/" }}
 {{- $children := false }}
 {{- range $menu }}
@@ -14,8 +15,9 @@
     {{- $children = .Children }}
     {{- $name = .Name }}
     {{- $url = relLangURL  .URL }}
-    {{- if in .URL "http://" }}
-      {{- $url = absLangURL .URL }}
+    {{- $counthttp = $url | strings.Count "http:"}}
+    {{- if  gt $counthttp 1}}
+        {{- $url = absLangURL .URL }}
     {{- end }} 
   {{- end }}
   <div class="nav_parent{{ if (and (not .Children) (eq (trim $url $forwardSlash) (trim $link $forwardSlash))) }} nav_active{{ end}}">
@@ -30,11 +32,12 @@
         {{- else }}
           {{- $name = .Name }}
           {{- $url = relLangURL .URL }}
-          {{- if in .URL "http://" }}
+          {{- $counthttp = $url | strings.Count "http:"}}
+          {{- if  gt $counthttp 1}}
             {{- $url = absLangURL .URL }}
           {{- end }} 
         {{- end }}
-        <a href="{{ $url }}" class="nav_child nav_item" title="{{ $name }}">{{ $name }}</a>
+        <a href="{{ $url }}" class="nav_child nav_item" title="{{ $name }}"  l='{{ printf "%#v" $.URL}}'>{{ $name }}</a>
       {{- end }}
     </div>
     {{- end }}
