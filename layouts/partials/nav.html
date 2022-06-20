@@ -16,7 +16,7 @@
     {{- $name = .Name }}
     {{- $url = relLangURL  .URL }}
     {{- $counthttp = $url | strings.Count "http"}}
-    {{- if  gt $counthttp 1}}
+    {{- if  gt $counthttp 0}}
         {{- $url = absLangURL .URL }}
     {{- end }} 
   {{- end }}
@@ -33,7 +33,7 @@
           {{- $name = .Name }}
           {{- $url = relLangURL .URL }}
           {{- $counthttp = $url | strings.Count "https:"}}
-          {{- if  gt $counthttp 1}}
+          {{- if  gt $counthttp 0}}
             {{- $url = absLangURL .URL }}
           {{- end }} 
         {{- end }}
