@@ -1,7 +1,7 @@
 ---
 title: "Noureddine Haouari"
 slug: "noureddine-haouari"
-description: "A GPT 3 advocate"
+description: "Computer science researcher"
 date: "2022-06-17"
 author: "Noureddine Haouari"
 tags: [
@@ -9,5 +9,5 @@ tags: [
 ]
 ---
 
-I'm a Computer Science Researcher with a focus on distributed systems, streaming, and anonymous networks. I'm interested in writing, taking notes, knowledge management, meta-learning, business, and startups.  
-
+I am a computer science researcher specializing in distributed systems and networks.
+I am interested in writing, taking notes and managing knowledge. I am also very passionate about the world of business, investment and startups.
