@@ -48,5 +48,26 @@ iframe {
     font-family: 'Dubai' !important;
 }
 
+.anchor {
+    padding-top: 60px;
+    margin-top: -60px;
+    display: table-caption;
+  }
 
+.nav_header {
+    position: absolute;
+    height: 100px;
+}
 
+main {
+    flex: 1;
+    position: absolute;
+    top: 100px;
+    bottom: 0;
+    overflow-y: scroll;
+    width: 100%;
+}
+
+.content {
+    padding-top: 0 !important; 
+}
