@@ -28,10 +28,30 @@ iframe {
 }
 
 .ar a {
-    font-family: 'Metropolis'
+    font-family: 'Dubai'
 }
 
-.ar h1,h2,h3,h4,h5,h6 {
+
+
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Brandon' !important;
+}
+.post_link > a {
+    font-family: 'Brandon' !important;
+}
+
+.nav_parent > a {
+    font-family: 'Brandon' !important;
+}
+
+
+.ar h1,
+.ar h2,
+.ar h3,
+.ar h4,
+.ar h5,
+.ar h6 {
     font-family: 'Kufi' !important;
 }
 
@@ -70,3 +90,42 @@ main {
 .content {
     padding-top: 0 !important; 
 }
+
+.post_toc {
+    background-color: #f9f9fb;
+    border-radius: 0.25rem;
+    line-height: 1.6;
+    margin: 3rem -1rem!important;
+    max-width: 100vw;
+    padding: 2rem 1rem;
+    width: auto!important;
+}
+
+
+
+#TableOfContents > ul >li:before {
+    color: #999;
+    content: "→";
+    left: -2rem;
+    margin-right: 1em;
+    margin-left: 1em;
+}
+
+.ar > .content > .post_content > .post_toc > #TableOfContents > ul >li:before {
+    content: "←";
+}
+
+#TableOfContents > ul >li {
+font-size: larger;
+}
+
+#TableOfContents > ul {
+    list-style-type: none!important;
+}
+
+#TableOfContents > ul >li > a {
+    background-image: linear-gradient(transparent calc(100% - 1px),#5333ed 1px);
+    color: #5333ed;
+}
+
+
