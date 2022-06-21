@@ -47,7 +47,7 @@ other = "جميع الوسوم"
 other = "جميع السلاسل"
 
 [overview]
-other = "Overview"
+other = "الفهرس"
 
 [reading_time]
 other = "{{ .ReadingTime }} دقيقة لقرائته"
