@@ -6,13 +6,19 @@
       {
         "id": "91d2afbeeb46d911",
         "type": "leaf",
+        "pinned": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "english/authors/NoureddineHaouari.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {},
+          "pinned": true
+        }
+      },
+      {
+        "id": "a6304e98b0ff8c55",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +75,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "english/authors/NoureddineHaouari.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +94,15 @@
   },
   "active": "91d2afbeeb46d911",
   "lastOpenFiles": [
+    "arabic/post/Untitled.md",
+    "english/post/IA generators/The Top 5 AI Writing Assistant Tools.md",
+    "english/post/_index.md",
+    "english/authors/mohamedallam.md",
+    "english/authors/NoureddineHaouari.md",
     "arabic/authors/NoureddineHaouari.md",
     "arabic/becomeAuthor.md",
-    "english/authors/NoureddineHaouari.md",
     "french/authors/NoureddineHaouari.md",
     "french/newsletter.md",
-    "french/becomeAuthor.md",
-    "french/about.md",
-    "arabic/about.md",
-    "english/becomeAuthor.md",
-    "english/about.md"
+    "french/becomeAuthor.md"
   ]
 }
