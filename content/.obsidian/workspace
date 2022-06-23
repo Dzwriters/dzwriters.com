@@ -12,14 +12,6 @@
           "state": {},
           "pinned": true
         }
-      },
-      {
-        "id": "a6304e98b0ff8c55",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
       }
     ],
     "direction": "vertical"
@@ -94,15 +86,15 @@
   },
   "active": "91d2afbeeb46d911",
   "lastOpenFiles": [
-    "arabic/post/Untitled.md",
+    "Untitled.md",
     "english/post/IA generators/The Top 5 AI Writing Assistant Tools.md",
+    "arabic/post/Untitled.md",
     "english/post/_index.md",
     "english/authors/mohamedallam.md",
     "english/authors/NoureddineHaouari.md",
     "arabic/authors/NoureddineHaouari.md",
     "arabic/becomeAuthor.md",
     "french/authors/NoureddineHaouari.md",
-    "french/newsletter.md",
-    "french/becomeAuthor.md"
+    "french/newsletter.md"
   ]
 }
